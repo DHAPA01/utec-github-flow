@@ -1,3 +1,3 @@
-## v1.0.1
+## v1.1.0
 - Se actualizaron los documentos de introducción e historial con nuevo contenido.
 - Se resolvió el conflicto en docs/collaboration.md y se mejoró su contenido.
